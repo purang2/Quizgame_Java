@@ -2,6 +2,13 @@
 This repository includes Java GUI projects which is made in KNU 2019.
 
 
+### Pictures 
+![img1](shrekMain_fail)
+![img2](shrekMain_win)
+![img3](turtle2)
+
+
+
 ### 프로그램 실행 방법
 
 1. 이클립스를 실행합니다
