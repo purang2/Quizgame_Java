@@ -1,5 +1,5 @@
 # JAVAQUIZGAME
-This repository includes Java GUI projects which is made in KNU 2019.
+This repository includes Java GUI projects which is made in KNU Java Programming.
 
 
 ### Pictures 
