@@ -1,0 +1,36 @@
+
+//진행과정 
+
+not login 상태 VM -> main.py //hello.html
+
+
+
+Flask:
+웹 사이트를 구동하기 위한 용도
+(1)임포트: from flask import Flask
+
+->piweb1.py 보기 (중간에 잠)
+
+beautiful Soup: 
+웹사이트를 크롤링하는 용도 (파이썬 라이브러리)
+
+BS를 위한 파이썬
+(1)String을 input-> name=raw_input("명령")
+(2)사이트를 변수에 저장-> site=requests.get(name)
+(3)BS를 사용하기위한 변수-> soup=BeautifulSoup(site.content,'html.parser')
+(4)BS 검색 
+-> tb=soup.find('div', id="qwidget-quote-wrap")
+-> data=tb.find('div',class_="qwidget-dollar")
+(5)출력
+->print(data.get_text())
+->print(tb.prettify()) (예쁘게 출력)
+
+
+ElasticSearch :
+데이터를 저장 관리하여 빠른 검색및 분석이 가능하도록 해줌
+데이터를 저장하는 NoSQL의 개념이며, 
+JSON쿼리를 사용하여 데이터를 처리한다
+
+
+
+

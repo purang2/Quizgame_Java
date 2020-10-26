@@ -1,0 +1,66 @@
+import java.util.*;
+
+public class quiz1 {
+	public static void main(String[] args) {
+
+		Scanner sc=new Scanner(System.in);
+
+		String[] ans= {"걸캅스","어벤저스","타노스","피카츄"};
+		
+		while(true)
+		{
+			System.out.print("문제 번호를 선택하세요 -> \n영화 문제 (1) \n과학 문제 (2)\n");
+			int n=sc.nextInt();
+			
+			if(n==1)
+			{
+				System.out.println("문제 (1)");
+				System.out.println("라미란 이성경 주연의 여경 소재의 좆망예감 영화 제목은 무엇인가?");
+				for(int i=0;i<ans.length;i++) System.out.printf("(%d). %s\n",i+1,ans[i]);
+				
+				while(true) {
+				System.out.print("답을 숫자로 입력하세요: ");
+				int a=sc.nextInt();
+				if(a==1) {System.out.println("정답입니다 축하합니다"); 
+				System.out.print("다음 문제를 푸시겠습니까?(YES==1)/(NO==0)");
+				int again2=sc.nextInt();
+				if(again2==1) {n=2; System.out.println("2번 문제로 넘어갑니다 "); break;
+				}
+				}
+				else System.out.println("틀렸습니다. 다른 답을 입력하세요");
+				}
+				
+			}
+			
+			if(n==2)
+			{				
+				System.out.println("문제 (2)");
+				System.out.println("포켓몬 픽쳐스에서 최근 실사화로 깜찍한 제작한 영화의 제목은 무엇인가");
+				for(int i=0;i<ans.length;i++) System.out.printf("(%d). %s\n",i+1,ans[i]);
+				
+			   while(true) {
+				System.out.print("답을 숫자로 입력하세요: ");
+				int a=sc.nextInt();			
+				if(a==4) {System.out.println("정답입니다 축하합니다!"); break;}
+				else System.out.println("틀렸습니다. 다른 답을 입력하세요");
+			   }
+			   }
+			
+			else System.out.println("입력 오류입니다. 1또는 2로 다시 입력하세요");
+		
+			System.out.print("한번 더 플레이 하시겠습니까?(YES==1)/(NO==0)");
+			int isAgain=sc.nextInt();
+			if(isAgain==0) {System.out.println("no를 입력하셨습니다. \n게임을 종료합니다");break;}
+			if(isAgain==1) {System.out.println("한번 더 플레이합니다\n\n\n");}
+			else { 
+				System.out.print("0또는 1을 정확히 다시 입력해 주세요 (YES==1)/(NO==0)");
+				System.out.print("한번 더 플레이 하시겠습니까?(YES==1)/(NO==0)");
+				isAgain=sc.nextInt();
+				if(isAgain==0) {System.out.println("no를 입력하셨습니다. \n게임을 종료합니다");break;}
+				if(isAgain==1) {System.out.println("한번 더 플레이합니다\n\n\n");}
+			}
+			
+		}
+		
+	}
+}
