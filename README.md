@@ -1,11 +1,6 @@
 # JAVAQUIZGAME
 This repository includes Java GUI projects which is made in KNU 2019.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f95fcea3-64b2-4472-ad3d-01d7a5530888/side_Chinese.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f95fcea3-64b2-4472-ad3d-01d7a5530888/side_Chinese.jpg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d4b7d0d-e02a-4821-a661-41f7250b9d4b/turtle2.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d4b7d0d-e02a-4821-a661-41f7250b9d4b/turtle2.jpg)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abc6facc-4a0c-4599-b61d-5119471729c4/shrekMain_win.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/abc6facc-4a0c-4599-b61d-5119471729c4/shrekMain_win.jpg)
 
 ### 프로그램 실행 방법
 
