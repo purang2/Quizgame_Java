@@ -3,9 +3,9 @@ This repository includes Java GUI projects which is made in KNU 2019.
 
 
 ### Pictures 
-![img1](shrekMain_fail)
-![img2](shrekMain_win)
-![img3](turtle2)
+![img1](shrekMain_fail.jpg)
+![img2](shrekMain_win.jpg)
+![img3](turtle2.jpg)
 
 
 
