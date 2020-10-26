@@ -1,0 +1,8 @@
+3. 다음 코드를 동작시키기 위해서 (          ) 안에 들어갈 단어는?
+
+public static void main(String[] args){
+int a = 1110;
+String b = "2019";
+double c = (double)a + (      )(b);
+
+}

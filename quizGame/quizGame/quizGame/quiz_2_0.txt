@@ -1,0 +1,14 @@
+1. 다음 구문을 실행하면 컴파일 오류가 발생한다. 잘못된 점을 찾으시오.
+
+public static void main(String[] args){
+int a;
+int[] array = {1, 2, 3, 4, 5, 6, 7};
+for(a = 0; a <= array.length; a++)
+array[a] = -a;
+
+}
+
+1. 배열을 사용하기 위해서 Java.util.*;를 import해야 한다.
+2. 변수 a에 대한 선언은 for문 내부에서 새로 이루어져야 한다.
+3. for문의 종료문을 a < array.length라 고친다.
+4. for문 아래의 내용은 반드시 중괄호로 묶어야만 한다.
