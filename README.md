@@ -1,4 +1,4 @@
-# JAVAQUIZGAME
+# [자바프로그래밍]JAVAQUIZGAME
 This repository includes Java GUI projects which is made in KNU Java Programming.
 
 
