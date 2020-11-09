@@ -5,7 +5,7 @@ This repository includes Java GUI projects which is made in KNU Java Programming
 
 ---
 
-## 프로그램 Overview 사진들
+## 프로그램 Overview 
 ![img1](shrekMain_fail.jpg)
 ![img2](shrekMain_win.jpg)
 ![img3](turtle2.jpg)
@@ -35,17 +35,12 @@ Main.java를 클릭하여 RUN 하면 프로그램이 정상 동작합니다
 
 ---
 
-## 조장이은찬_조원김재국_소감문
-
-**자바 프로그래밍 1학기 프로젝트(이경숙 교수님)**
-
----
 
 ## [프로젝트에 대한 소감문 작성]
 
 ### [주제]
 
-**자바를 이용한 퀴즈 게임**
+**자바를 이용한 GUI 기반의 퀴즈 게임**
 
 ### [조원]
 
@@ -58,6 +53,8 @@ Main.java를 클릭하여 RUN 하면 프로그램이 정상 동작합니다
 **김재국 10점**
 
 **이은찬 9점**
+
+(둘 다 고생했으나 동점을 부여할 수 없는 원칙이 있었음)
 
 ### [소감]
 
