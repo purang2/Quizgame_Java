@@ -94,6 +94,7 @@ Main.java를 클릭하여 RUN 하면 프로그램이 정상 동작합니다
 
 
 - 코딩에 참고한 사항: 아래 Power Java의 기초 자바문법과 자바GUI, 그래픽, 스윙 등을 참조하여 개발하였음. 일부 필요한 기능을 위해 Java 개발자의 유튜브 자료를 참고함
+
 <img src="JV1.jpg" width="20%" height="20%"> <img src="jv2.jpg" width="30%" height="30%">
 
 
