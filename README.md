@@ -7,7 +7,7 @@ This repository includes Java GUI projects which is made in KNU Java Programming
 
 ## 프로그램 Overview 
 
-- 아래 [프로그램 실행 방법]대로 eclipse에서 Main.java를 Run하면 가장 먼저 게임의 시작화면이 아래와 같이 나옵니다
+- 1. 아래 [프로그램 실행 방법]대로 eclipse에서 Main.java를 Run하면 가장 먼저 게임의 시작화면이 아래와 같이 나옵니다
 
 <img src="Q1.jpg">
 
