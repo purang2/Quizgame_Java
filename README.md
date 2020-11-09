@@ -1,15 +1,17 @@
-# [자바프로그래밍]JAVAQUIZGAME
+# [자바프로그래밍]QUIZGAME
 This repository includes Java GUI projects which is made in KNU Java Programming.
 
+---
 
-### Pictures 
+## 프로그램 Overview 사진들
 ![img1](shrekMain_fail.jpg)
 ![img2](shrekMain_win.jpg)
 ![img3](turtle2.jpg)
 
 
+---
 
-### 프로그램 실행 방법
+## 프로그램 실행 방법
 
 1. 이클립스를 실행합니다
 2. 이클립스 상단 메뉴바의 File ->Open project from File System을 클릭합니다
@@ -31,29 +33,31 @@ Main.java를 클릭하여 RUN 하면 프로그램이 정상 동작합니다
 
 ---
 
-### 조장이은찬_조원김재국_소감문
+## 조장이은찬_조원김재국_소감문
 
 **자바 프로그래밍 1학기 프로젝트(이경숙 교수님)**
 
-**[프로젝트에 대한 소감문 작성]**
+---
 
-**[주제]**
+##[프로젝트에 대한 소감문 작성]
+
+###[주제]
 
 **자바를 이용한 퀴즈 게임**
 
-**[조원]**
+###[조원]
 
 **1.경북대학교 전자공학부 이은찬 (조장)**
 
 **2.경북대학교 전자공학부 김재국**
 
-**[참여도 점수]**
+###[참여도 점수]
 
 **김재국 10점**
 
 **이은찬 9점**
 
-**[소감]**
+###[소감]
 
 <조장 전자공학부 이은찬>
 
