@@ -121,4 +121,4 @@ Main.java를 클릭하여 RUN 하면 프로그램이 정상 동작합니다
 
 ### [코드]
 
-[경로]()
+[메인폴더 경로](https://github.com/purang2/Quizgame_Java/tree/main/quizGame/quizGame/quizGame/src/quizGame)
