@@ -109,14 +109,15 @@ Main.java를 클릭하여 RUN 하면 프로그램이 정상 동작합니다
 ### [코드]
 
 
-- **코드에 대한 설명은 아래 메인폴더 경로를 따라가시면 주석에 설명을 이해하기 쉽도록 해 두었습니다. 양해 부탁드립니다.**
+
+## [▶메인폴더 경로](https://github.com/purang2/Quizgame_Java/tree/main/quizGame/quizGame/quizGame/src/quizGame)
+
+- **코드에 대한 설명은 위[메인폴더 경로]를 클릭하셔서 들어가셔서 코드를 보시면 주석에 설명을 이해하기 쉽도록 해 두었습니다. 양해 부탁드립니다.**
 
 
-- 참고한 사항: 아래 Power Java의 기초 자바문법과 자바GUI, 그래픽, 스윙 등을 참조하여 개발하였음. 일부 필요한 기능을 위해 Java 개발자의 유튜브 자료를 참고함
+- 코딩에 참고한 사항: 아래 Power Java의 기초 자바문법과 자바GUI, 그래픽, 스윙 등을 참조하여 개발하였음. 일부 필요한 기능을 위해 Java 개발자의 유튜브 자료를 참고함
 <img src="JV1.jpg" width="20%" height="20%"> <img src="jv2.jpg" width="20%" height="20%">
 
-
-[▶메인폴더 경로](https://github.com/purang2/Quizgame_Java/tree/main/quizGame/quizGame/quizGame/src/quizGame)
 
 
 
