@@ -5,7 +5,7 @@
 
 - 프로젝트 개발자: 전자공학부 15학번 이은찬, 전자공학부 15학번 김재국
 
-This repository includes Java GUI projects which is made in KNU Java Programming.
+This repository includes Java GUI project which is made in KNU Java Programming.
 
 
 ---
