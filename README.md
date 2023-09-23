@@ -3,7 +3,7 @@
 
 - 수업정보 : 자바프로그래밍 경북대학교 전자공학부 이경숙 교수님
 
-- 프로젝트 개발자: 전자공학부 15학번 이은찬, 전자공학부 15학번 김재국
+- 프로젝트 개발자: 전자공학부 이은찬, 전자공학부 김재국
 
 This repository includes Java GUI project which is made in KNU Java Programming.
 
